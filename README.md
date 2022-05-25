@@ -1,12 +1,12 @@
-# <img src="https://github.com/agomezgar/masayloBlockly/blob/master/www/media/logoCabecera.png" alt="Masaylo icon"> <br>
-<h1>MASAYLOBLOCKLY. RobÃ³tica en el aula</h1>
-All has been done with the best of wills. Thanks to @fontainejp for his great work. Learning and understanding because of him an @cparrapa. This document must be improved along incoming months.
+# <img src="https://i.ibb.co/T2Tsh5Y/bee.png" alt="Bee Robot - StemKits"> <br>
+<h1>BEEBLOCKLY. Robótica na sala de aula</h1>
+Uma linguagem de programação visual gratuita e de código aberto baseada em Blockly do Google & MIT, para gerar código C/C++, compilar e fazer upload para qualquer Arduino. É ferramenta essencial para poder programar o robô da StemKits chamdo de Bee.
 
 
 
 ## Links
 
-Tools without which nothing would not have been possible :
+Ferramentas sem as quais nada seria possível:
 
 - [Node.js](https://nodejs.org/fr/)
 - [Blockly@rduino](https://github.com/technologiescollege/Blockly-at-rduino)
