@@ -37,7 +37,7 @@ Blockly.Msg.CAT_TAB="Tableau";
 Blockly.Msg.CAT_list="Liste";
 Blockly.Msg.CAT_servo="- Servo";
 Blockly.Msg.CAT_del="- DEL";
-Blockly.Msg.span_masaylo=" MASAYLO BLOCKLY "
+Blockly.Msg.span_masaylo=" BEE BLOCKLY "
 
 Blockly.Msg.CAT_LOGIC="Contrôle";
 Blockly.Msg.CAT_MATH="Math";
