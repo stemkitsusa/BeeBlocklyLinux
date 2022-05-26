@@ -1,6 +1,6 @@
 # <img src="https://i.ibb.co/T2Tsh5Y/bee.png" alt="Bee Robot - StemKits"> <br>
 <h1>BEEBLOCKLY. Robótica na sala de aula</h1>
-Uma linguagem de programação visual gratuita e de código aberto baseada em Blockly do Google & MIT, para gerar código C/C++, compilar e fazer upload para qualquer Arduino. É ferramenta essencial para poder programar o robô da StemKits chamdo de Bee.
+Uma linguagem de programação visual gratuita e de código aberto baseada em Blockly do Google & MIT, para gerar código C/C++, compilar e fazer upload para qualquer Arduino. É ferramenta essencial para poder programar o robô da StemKits chamado de Bee.
 
 
 
