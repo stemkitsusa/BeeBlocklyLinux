@@ -314,7 +314,7 @@ PRINTF_LIB =
 # Minimalistic scanf version
 SCANF_LIB_MIN = -Wl,-u,vfscanf -lscanf_min
 
-# Floating point + %[ scanf version (requires MATH_LIB = -lm below)
+# Floating point + %[ scanf version (requires _LIB = -lm below)
 SCANF_LIB_FLOAT = -Wl,-u,vfscanf -lscanf_flt
 
 # If this is left blank, then it will use the Standard scanf version.
